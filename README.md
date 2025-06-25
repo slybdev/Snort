@@ -158,7 +158,27 @@ index=endpoint sourcetype=snort_alert
 * Alerts successfully forwarded to Splunk
 * Splunk dashboards show parsed fields like `msg`, `src_ip`, `SID`, etc.
 
+
 ---
+
+## 🖼️ScreenShots
+
+![Screenshot 2025-06-24 183243](https://github.com/user-attachments/assets/8d9b556a-7e73-4e78-a79f-5594f3f0bf49)
+![Screenshot 2025-06-24 182644](https://github.com/user-attachments/assets/5dd9f730-36f8-457c-b562-f9d3e3affc59)
+![Screenshot 2025-06-24 202158](https://github.com/user-attachments/assets/2d3dae67-3d58-4691-9d1a-205afd70eb3a)
+![Screenshot 2025-06-24 202054](https://github.com/user-attachments/assets/d3250127-ee75-4868-9f02-15c25fc3afdf)
+![Screenshot 2025-06-24 201911](https://github.com/user-attachments/assets/2e592252-1db9-437f-9e05-4a51ce3ba7d2)
+![Screenshot 2025-06-24 193241](https://github.com/user-attachments/assets/dc3bf5ad-a0ba-4cc2-9634-8a33c7fde90c)
+![Screenshot 2025-06-24 193201](https://github.com/user-attachments/assets/2408b0af-6949-4647-b163-52e08d0b40ab)
+
+![Screenshot 2025-06-25 024415](https://github.com/user-attachments/assets/4a5b32ce-60a7-40ba-8cff-fbbbf13ed72c)
+
+![Screenshot 2025-06-25 025317](https://github.com/user-attachments/assets/95b1263d-d07c-4a74-80a8-8a945622f005)
+
+![Screenshot 2025-06-25 025529](https://github.com/user-attachments/assets/93f94167-e45d-4705-92d9-0f84b0424495)
+
+
+
 
 ## 🎯 Next Goals
 
